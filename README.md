@@ -16,7 +16,7 @@ APP_URL：app项目地址
 
 建议使用GitHub的action，gitlab的ci或者vps运行脚本
 
-# GitLab CI/CD 定时任务配置指南
+# GitLab CI/CD 定时任务配置指南(仅供参考，GitHub同理)
 
 在 GitLab 中，您需要在项目的 CI/CD 设置中手动创建两个定时任务，而不是像 GitHub Actions 那样直接在 YAML 文件中配置 cron 表达式。
 
